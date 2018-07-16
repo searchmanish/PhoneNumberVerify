@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "246252074464",
+    "firebase_url": "https://phonenumberverify-90a8a.firebaseio.com",
+    "project_id": "phonenumberverify-90a8a",
+    "storage_bucket": "phonenumberverify-90a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246252074464:android:e4b281c358ab1435",
+        "android_client_info": {
+          "package_name": "com.m.phonenumberverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246252074464-0f2j9d2bh6gba92h7o1cgisuvklephf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m.phonenumberverify",
+            "certificate_hash": "55e2a3b0477d5e9b47db98833038f16b39781faa"
+          }
+        },
+        {
+          "client_id": "246252074464-skc2th1pofog5a9v4023makf1eoevf7s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "246252074464-skc2th1pofog5a9v4023makf1eoevf7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBXlM68Lz_35JIBSJsRoYxycksTVBLmsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246252074464-skc2th1pofog5a9v4023makf1eoevf7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
